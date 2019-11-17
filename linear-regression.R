@@ -1,5 +1,5 @@
 # read
-data <- read.csv("~/Projects/blog/R-samples/data.csv")
+data <- read.csv("~/data.csv")
 data
 
 # generate y and X
